@@ -2,6 +2,8 @@
 
 Eloquent Ruby is a Ruby programming book teaches you how to write the Ruby style of Ruby code, and nurture your taste like Rubyists, and these files are my notes while tasting this wonderful book! Hope you enjoy!
 
+suitable Ruby version: at least Ruby 1.9
+
 [ v ] : done, [ - ] : doing, [  ] : not yet
  
 
@@ -15,8 +17,8 @@ PART I: The Basics
 - [ v ] [Chapter 4: Take Advantage of Ruby’s Smart Strings](ch4.md)
 - [ v ] [Chapter 5: Find the Right String with Regular Expressions](ch5.md)
 - [ v ] [Chapter 6: Use Symbols to Stand for Something](ch6.md)
-- [ - ] [Chapter 7: Treat Everything Like an Object—Because Everything Is](ch7.md)
-- [   ] Chapter 8: Embrace Dynamic Typing
+- [ v ] [Chapter 7: Treat Everything Like an Object—Because Everything Is](ch7.md)
+- [ - ] [Chapter 8: Embrace Dynamic Typing](ch8.md)
 - [   ] Chapter 9: Write Specs!
 
 PART II: Classes, Modules, and Blocks
