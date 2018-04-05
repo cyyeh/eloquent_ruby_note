@@ -1,4 +1,4 @@
-# Eloquent Ruby
+# Eloquent Ruby Notes
 
 Eloquent Ruby is a Ruby programming book teaches you how to write the Ruby style of Ruby code, and nurture your taste like Rubyists, and these files are my notes while tasting this wonderful book! Hope you enjoy!
 
