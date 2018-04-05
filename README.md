@@ -13,8 +13,8 @@ PART I: The Basics
 - [ v ] [Chapter 2: Choose the Right Control Structure](ch2.md)
 - [ v ] [Chapter 3: Take Advantage of Ruby’s Smart Collections](ch3.md)
 - [ v ] [Chapter 4: Take Advantage of Ruby’s Smart Strings](ch4.md)
-- [ - ] [Chapter 5: Find the Right String with Regular Expressions](ch5.md)
-- [   ] Chapter 6: Use Symbols to Stand for Something
+- [ v ] [Chapter 5: Find the Right String with Regular Expressions](ch5.md)
+- [ - ] Chapter 6: Use Symbols to Stand for Something
 - [   ] Chapter 7: Treat Everything Like an Object—Because Everything Is
 - [   ] Chapter 8: Embrace Dynamic Typing
 - [   ] Chapter 9: Write Specs!
