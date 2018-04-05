@@ -9,10 +9,10 @@ Eloquent Ruby is a Ruby programming book teaches you how to write the Ruby style
 
 PART I: The Basics
 
-- [ v ] Chapter 1: Write Code That Looks Like Ruby
-- [ v ] Chapter 2: Choose the Right Control Structure
-- [ v ] Chapter 3: Take Advantage of Ruby’s Smart Collections
-- [ - ] Chapter 4: Take Advantage of Ruby’s Smart Strings
+- [ v ] [Chapter 1: Write Code That Looks Like Ruby](ch1.md)
+- [ v ] [Chapter 2: Choose the Right Control Structure](ch2.md)
+- [ v ] [Chapter 3: Take Advantage of Ruby’s Smart Collections](ch3.md)
+- [ - ] [Chapter 4: Take Advantage of Ruby’s Smart Strings](ch4.md)
 - [   ] Chapter 5: Find the Right String with Regular Expressions
 - [   ] Chapter 6: Use Symbols to Stand for Something
 - [   ] Chapter 7: Treat Everything Like an Object—Because Everything Is
