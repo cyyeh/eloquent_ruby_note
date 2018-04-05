@@ -91,3 +91,39 @@
 ```
 
 ### The String: A Place for Your Lines, Characters, and Bytes
+
+- One odd aspect of strings is that they can’t quite make up their minds as to the kinds of things they collect
+	- collection of characters
+		- use the `each_char` method to iterate
+	- collection of bytes
+		- use the `each_byte` method to iterate
+	- collection of lines
+		- use the `each_line` method to iterate
+
+### Staying Out of Trouble
+
+- Ruby strings are mutable
+	```
+	# You should treat Ruby strings like any other mutable data structure
+	# [ v ]
+  first_name = first_name.upcase
+	
+	# [ x ]
+	first_name.upcase!
+	```
+- In fact, you only have one string
+	```
+	first_name = 'Karen'
+	given_name = firstname
+
+	# In face you only have one string, you would also modify another string.
+	first_name[0] = 'D' 
+	```
+- string indexing
+	```
+	# negative numbers to index from the end of the string
+	first_name[-1] # last character
+	
+	# range indexing
+	"abcde"[3..4] # 'de'
+	```
