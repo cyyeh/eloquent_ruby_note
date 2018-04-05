@@ -18,8 +18,8 @@ PART I: The Basics
 - [ v ] [Chapter 5: Find the Right String with Regular Expressions](ch5.md)
 - [ v ] [Chapter 6: Use Symbols to Stand for Something](ch6.md)
 - [ v ] [Chapter 7: Treat Everything Like an Object—Because Everything Is](ch7.md)
-- [ - ] [Chapter 8: Embrace Dynamic Typing](ch8.md)
-- [   ] Chapter 9: Write Specs!
+- [ v ] [Chapter 8: Embrace Dynamic Typing](ch8.md)
+- [ - ] [Chapter 9: Write Specs!](ch9.md)
 
 PART II: Classes, Modules, and Blocks
 
