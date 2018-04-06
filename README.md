@@ -23,9 +23,9 @@ PART I: The Basics
 
 PART II: Classes, Modules, and Blocks
 
-- [   ] Chapter 10: Construct Your Classes from Short, Focused Methods
-- [   ] Chapter 11: Define Operators Respectfully
-- [   ] Chapter 12: Create Classes That Understand Equality
+- [ v ] [Chapter 10: Construct Your Classes from Short, Focused Methods](ch10.md)
+- [ v ] [Chapter 11: Define Operators Respectfully](ch11.md)
+- [ - ] [Chapter 12: Create Classes That Understand Equality](ch12.md)
 - [   ] Chapter 13: Get the Behavior You Need with Singleton and Class Methods
 - [   ] Chapter 14: Use Class Instance Variables
 - [   ] Chapter 15: Use Modules as Name Spaces
