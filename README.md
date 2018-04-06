@@ -26,8 +26,8 @@ PART II: Classes, Modules, and Blocks
 - [ v ] [Chapter 10: Construct Your Classes from Short, Focused Methods](ch10.md)
 - [ v ] [Chapter 11: Define Operators Respectfully](ch11.md)
 - [ v ] [Chapter 12: Create Classes That Understand Equality](ch12.md)
-- [ - ] [Chapter 13: Get the Behavior You Need with Singleton and Class Methods](ch13.md)
-- [   ] Chapter 14: Use Class Instance Variables
+- [ v ] [Chapter 13: Get the Behavior You Need with Singleton and Class Methods](ch13.md)
+- [ - ] [Chapter 14: Use Class Instance Variables](ch14.md)
 - [   ] Chapter 15: Use Modules as Name Spaces
 - [   ] Chapter 16: Use Modules as Mixins
 - [   ] Chapter 17: Use Blocks to Iterate
