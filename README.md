@@ -6,7 +6,8 @@ Eloquent Ruby is a Ruby programming book teaches you how to write the Ruby style
 
 suitable Ruby version: at least Ruby 1.9
 
-[ v ] : done, [  ] : not yet
+- [x] : done, 
+- [ ] : not yet
  
 
 ### Table of Contents
