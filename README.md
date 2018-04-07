@@ -32,7 +32,7 @@ PART II: Classes, Modules, and Blocks
 - [ v ] [Chapter 16: Use Modules as Mixins](ch16.md)
 - [ v ] [Chapter 17: Use Blocks to Iterate](ch17.md)
 - [ v ] [Chapter 18: Execute Around with a Block](ch18.md)
-- [ - ] [Chapter 19: Save Blocks to Execute Later](ch19.md)
+- [ v ] [Chapter 19: Save Blocks to Execute Later](ch19.md)
 
 PART III: Metaprogramming
 
