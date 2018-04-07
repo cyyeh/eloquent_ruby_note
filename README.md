@@ -1,5 +1,7 @@
 # Eloquent Ruby Notes
 
+**Read GitBook version here: [Eloquent Ruby Notes · GitBook](https://legacy.gitbook.com/book/cyyeh/eloquent-ruby-notes/)**
+
 Eloquent Ruby is a Ruby programming book teaches you how to write the Ruby style of Ruby code, and nurture your taste like Rubyists, and these files are my notes while tasting this wonderful book! Hope you enjoy!
 
 suitable Ruby version: at least Ruby 1.9
