@@ -107,8 +107,7 @@ doc.words.each { |word| puts word }
 
 [ x ]: single statement but too long
 ```
-doc.words.each { |word| some_really_really_long_expression( ... with
-    lots of args ... ) }
+doc.words.each { |word| some_really_really_long_expression( ... with lots of args ... ) }
 ```
 
 ---

@@ -11,12 +11,12 @@
 
 	```
 	class Document
-		# Most of the class on holiday...
-		def about_me
-			puts "I am #{self}"
-			puts "My title is #{self.title}"
-			puts "I have #{self.word_count} words"
-		end 
+	  # Most of the class on holiday...
+	  def about_me
+	    puts "I am #{self}"
+	    puts "My title is #{self.title}"
+	    puts "I have #{self.word_count} words"
+	  end 
 	end
 
 	doc = Document.new(...) # omitted
@@ -71,20 +71,20 @@ true.class.class # Class
 	```
 	# first version
 	class Document
-		private  # Methods are private starting here
+	  private  # Methods are private starting here
 		
-		def word_count
-		  return words.size
-		end 
+	  def word_count
+	    return words.size
+	  end 
 	end
 	
 	# second version
 	class Document
-		def word_count
-		  return words.size
-		end 
+	  def word_count
+	    return words.size
+	  end 
 		
-		private :word_count
+	  private :word_count
 	end	
 	```
 - protected methods

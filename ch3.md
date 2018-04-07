@@ -39,7 +39,7 @@ end
 hash
 ```
 def load_font( specification_hash )
-	# Load a font according to specification_hash[:name] etc.
+  # Load a font according to specification_hash[:name] etc.
 end
 
 load_font( { :name => 'times roman', :size => 12 })
