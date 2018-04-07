@@ -30,9 +30,9 @@ PART II: Classes, Modules, and Blocks
 - [ v ] [Chapter 14: Use Class Instance Variables](ch14.md)
 - [ v ] [Chapter 15: Use Modules as Name Spaces](ch15.md)
 - [ v ] [Chapter 16: Use Modules as Mixins](ch16.md)
-- [ - ] [Chapter 17: Use Blocks to Iterate](ch17.md)
-- [   ] Chapter 18: Execute Around with a Block
-- [   ] Chapter 19: Save Blocks to Execute Later
+- [ v ] [Chapter 17: Use Blocks to Iterate](ch17.md)
+- [ v ] [Chapter 18: Execute Around with a Block](ch18.md)
+- [ - ] [Chapter 19: Save Blocks to Execute Later](ch19.md)
 
 PART III: Metaprogramming
 
